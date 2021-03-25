@@ -1,0 +1,161 @@
+body{
+  max-width: 1000px;
+  margin: 0 auto;
+  background: #222;
+}
+#heading{
+  display: block;
+  background: #0c0;
+}
+.change{
+  width: 400px;
+  height: 700px;
+  background: #555;
+  padding-top: 10px;
+}
+div img{
+  width: 40px;
+  height: 40px;
+  border-radius: 18px;
+  position: relative;
+  top: 10px;
+}
+.profile_pic_user{
+  width: 40px;
+  height: 40px;
+  border-radius: 18px;
+  position: relative;
+  bottom: 6px !important;
+  left: 5px !important;
+  background: #111 !important;
+}
+.profile_pic_user:hover{
+  background: black;
+}
+.symbol{
+  position: relative;
+  bottom: 16px;
+  left: 310px;
+}
+.search{
+  width: 290px;
+  height: 20px;
+  position: relative;
+  top: 28px;
+  right: 15px;
+  border-radius: 12px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid black;
+}
+.search:hover{
+  box-shadow: 3px 3px #888888;
+}
+.user1{
+  position: relative;
+  top:38px;
+  left: 15px;
+  padding-top: 18px;
+  padding-left: 10px;
+  padding-right: 270px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-bottom: 2px solid #222;
+  color: #ddd;
+}
+.user1:hover, .user2:hover, .user3:hover, .user4:hover, .user5:hover, .user6:hover, .user7:hover{
+  background-color: #aaa;
+  box-shadow: 7px 5px #444;
+}
+/* .profile_pic_other{
+  width: 40px;
+  height: 40px;
+  border-radius: 18px;
+  position: relative;
+  top: 16px;
+  left: 5px;
+} */
+.user2{
+  position: relative;
+  top:80px;
+  left: 15px;
+  padding-left: 10px;
+  padding-right: 270px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  padding-top: 18px;
+  border-bottom: 2px solid #222;
+  color: #ddd;
+}
+.user3{
+  position: relative;
+  top:120px;
+  left: 15px;
+  padding-left: 10px;
+  padding-right: 270px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+    padding-top: 18px;
+  border-bottom: 2px solid #222;
+  color: #ddd;
+}
+.user4{
+  position: relative;
+  top:160px;
+  left: 15px;
+    padding-top: 18px;
+  padding-left: 10px;
+  padding-right: 270px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-bottom: 2px solid #222;
+  color: #ddd;
+}
+.user5{
+  position: relative;
+  top:200px;
+  left: 15px;
+  padding-left: 10px;
+  padding-right: 270px;
+    padding-top: 18px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-bottom: 2px solid #222;
+  color: #ddd;
+}
+.user6{
+  position: relative;
+  top:240px;
+  left: 15px;
+  padding-left: 10px;
+    padding-top: 18px;
+  padding-right: 270px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-bottom: 2px solid #222;
+  color: #ddd;
+}
+.user7{
+  position: relative;
+  top:280px;
+  left: 15px;
+  padding-left: 10px;
+    padding-top: 18px;
+  padding-right: 270px;
+  padding-bottom: 10px;
+  margin-top: 10px;
+  border-bottom: 2px solid #222;
+  color: #ddd;
+}
+.profile_pic_other1{
+  width: 40px !important;
+  height: 40px;
+  border-radius: 18px;
+}
+section img{
+  width: 600px;
+  height: 710px;
+  position: relative;
+  left: 400px;
+  bottom:710px;
+  border-left: 2px solid #333;
+}
